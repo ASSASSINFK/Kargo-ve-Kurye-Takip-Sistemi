@@ -4,7 +4,7 @@
 
 ## 🗄️ Veri Tabanı Mimarisi (8 Tablo)
 Sistem, gereksiz veri tekrarını önleyecek şekilde (normalize) tasarlanmıştır:
-1. `Laender`: Gerçek ülke ISO kodları (Örn: DE, TR).
+1. `Laender`: Gerçek ülke ISO kodları (Örn: DE, PL).
 2. `Hubs`: Gerçek operasyon merkezleri (Örn: Leipzig Hub).
 3. `Kunden`: Gönderici ve alıcı profilleri.
 4. `Sendungen`: Ana kargo operasyonları tablosu.
