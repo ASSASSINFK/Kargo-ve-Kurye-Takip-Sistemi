@@ -14,7 +14,7 @@ Sistem, gereksiz veri tekrarını önleyecek şekilde (normalize) tasarlanmışt
 8. `Kuriere`: Sahada dağıtım yapan personeller.
 
 ## 📅 Haftalık İlerleme Raporu
-- **1. Hafta:** 
+- **1. Hafta:** "SQL tablolari eklendi"
 - **2. Hafta:** 
 - **3. Hafta:** 
 - **4. Hafta:** 
